@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import MyPhoto from './IMG_0128.PNG';
+import MyPhoto from './IMG_0128.jpg';
 
 class Landing extends Component {
     state = {
