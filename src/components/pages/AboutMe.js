@@ -108,14 +108,14 @@ export default function AboutMe(){
                 <h3>Certifications:</h3>
                     <ul>
                         <li>CompTIA A+ ce certification</li>
-                        <li>I am currently pursing my CCNA</li>
+                        <li>I am currently pursuing my CCNA</li>
                     </ul>
                 <h3>Below are links to some programming projects that I have done.</h3>
                 <li><a href="https://gitlab.com/Denzel.Dalton/colourgame">Javascript based colour guessing game.</a></li>
                 <li><a href="https://gitlab.com/Denzel.Dalton/caesercipher/-/blob/master/TextCipherTool.py">Caesar Cipher in python.</a></li>
                 <li><a href="https://gitlab.com/Denzel.Dalton/conversion-calculator-for-android">Conversion Calculator in Java for Android Operating System.</a></li>
                 <li><a href="https://play.google.com/store/apps/details?id=com.converter.conversioncalculator">You may also download the Conversion Calculator from the google play store onto your android device.</a></li>
-                <li><a href="#">This site</a></li>
+                <li><a href="https://github.com/ddalton299/portfoliosite">This site</a></li>
             </div>
         </div>
     );

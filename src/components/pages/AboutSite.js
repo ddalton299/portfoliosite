@@ -12,7 +12,7 @@ export default function AboutSite(){
                 <h3>How this site was made:</h3>
                 <p>
                     This site is made using the React JavaScript framework and Node. It uses the React Router framework 
-                    for routing between pages and Netlify for the hosting platform.    
+                    for routing between pages, Netlify for the hosting platform, and continuous deployment through GitHub.    
                 </p>
             </div>
         </div>
