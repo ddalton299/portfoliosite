@@ -14,7 +14,7 @@ class Landing extends Component {
             
             <h1>Denzel Robert Dalton </h1>
             <h4>Technology Professional </h4>
-            <h5>Email: ddalton2119@gmail.com</h5>
+            <h5>Email: denzeldalton2119@gmail.com</h5>
             <img id="Photo" src={MyPhoto}/>
             <div>
               <a className="btn btn-outline-primary btn-block" href="/AboutMe">About Me</a>
